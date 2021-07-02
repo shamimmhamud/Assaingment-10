@@ -1,4 +1,8 @@
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+font-size:30px;
+ background-color: #cccccc;;
+
+}
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
@@ -46,6 +50,7 @@ img.avatar {
 
 .container {
   padding: 16px;
+  text-align:center;
 }
 
 span.psw {
